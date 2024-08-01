@@ -1,6 +1,9 @@
 # onion-service-nostr-clients
 A list of nostr clients exposed as onion services
 
+You can find this list on nostr too, e.g. on [Habla](https://habla.news/u/0xtr@oxtr.dev/1714380748865).
+The note id is: naddr1qvzqqqr4gupzpvkkwr098vnkj8qvxsqzykm9cddzd5rqjw7vg86gllr3uzg8l822qqxnzde3xsensvphxsursd3422uart.
+
 # The list
 
 | Client name | Onion URL | Source code URL | Admin | Description |
