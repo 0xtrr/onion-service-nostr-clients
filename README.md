@@ -10,6 +10,9 @@ The note id is: naddr1qvzqqqr4gupzpvkkwr098vnkj8qvxsqzykm9cddzd5rqjw7vg86gllr3uz
 | --- | --- | --- | --- | --- |
 | Snort | http://agzj5a4be3kgp6yurijk4q7pm2yh4a5nphdg4zozk365yirf7ahuctyd.onion | https://git.v0l.io/Kieran/snort | [njump](https://njump.me/nprofile1qyvhwumn8ghj7un9d3shjtnndehhyapwwdhkx6tpdshszxnhwden5te0wpuhyctdd9jzuenfv96x5ctx9e3k7mf0qqsx8lnrrrw9skpulctgzruxm5y7rzlaw64tcf9qpqww9pt0xvzsfmg9umdvr) | N/A |
 | moStard | http://sifbugd5nwdq77plmidkug4y57zuqwqio3zlyreizrhejhp6bohfwkad.onion/ | https://github.com/rafael-xmr/nostrudel/tree/mostard | [njump](https://njump.me/nprofile1qyv8wumn8ghj7un9d3shjtnddaehgctjvshx7un89uq36amnwvaz7tmzdaehgu3wvf5hgcm0d9h8g7r0ddhjucm0d5hsqgy8wvyzw6l9pn5m47n7tcm5un7t7h5ctx3pjx8nfwh06qq8g6max5zadtyx) | minimalist monero friendly nostrudel fork |
+| Nostrudel | http://oxtrnmb4wsb77rmk64q3jfr55fo33luwmsyaoovicyhzgrulleiojsad.onion/ | https://github.com/hzrd149/nostrudel | [njump](https://njump.me/npub1ktt8phjnkfmfrsxrgqpztdjuxk3x6psf80xyray0l3c7pyrln49qhkyhz0) | Runs latest tagged docker image  |
+| Nostrudel Next | http://oxtrnnumsflm7hmvb3xqphed2eqpbrt4seflgmdsjnpgc3ejd6iycuyd.onion/ | https://github.com/hzrd149/nostrudel | [njump](https://njump.me/npub1ktt8phjnkfmfrsxrgqpztdjuxk3x6psf80xyray0l3c7pyrln49qhkyhz0) | Runs latest "next" tagged docker image  |
+
 
 ## Contributing
 
