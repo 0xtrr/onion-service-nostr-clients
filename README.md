@@ -13,7 +13,7 @@ The note id is: naddr1qvzqqqr4gupzpvkkwr098vnkj8qvxsqzykm9cddzd5rqjw7vg86gllr3uz
 | Nostrudel | http://oxtrnmb4wsb77rmk64q3jfr55fo33luwmsyaoovicyhzgrulleiojsad.onion/ | https://github.com/hzrd149/nostrudel | [njump](https://njump.me/npub1ktt8phjnkfmfrsxrgqpztdjuxk3x6psf80xyray0l3c7pyrln49qhkyhz0) | Runs latest tagged docker image  |
 | Nostrudel Next | http://oxtrnnumsflm7hmvb3xqphed2eqpbrt4seflgmdsjnpgc3ejd6iycuyd.onion/ | https://github.com/hzrd149/nostrudel | [njump](https://njump.me/npub1ktt8phjnkfmfrsxrgqpztdjuxk3x6psf80xyray0l3c7pyrln49qhkyhz0) | Runs latest "next" tagged docker image  |
 | Nsite | http://q457mvdt5smqj726m4lsqxxdyx7r3v7gufzt46zbkop6mkghpnr7z3qd.onion/ | https://github.com/hzrd149/nsite-ts | [njump](https://njump.me/nprofile1qqszv6q4uryjzr06xfxxew34wwc5hmjfmfpqn229d72gfegsdn2q3fgpz3mhxue69uhhyetvv9ujuerpd46hxtnfduqs6amnwvaz7tmwdaejumr0dsxx2q3a) | Runs nsite. You can read more about nsite [here](https://github.com/lez/nsite).   |
-
+| Shopstr | http://6fkdn756yryd5wurkq7ifnexupnfwj6sotbtby2xhj5baythl4cyf2id.onion/ | https://github.com/shopstr-eng/shopstr-hidden-service | [njump](https://njump.me/nprofile1qqszv6q4uryjzr06xfxxew34wwc5hmjfmfpqn229d72gfegsdn2q3fgpz3mhxue69uhhyetvv9ujuerpd46hxtnfduqs6amnwvaz7tmwdaejumr0dsxx2q3a) | Runs the latest `serverless` branch build of Shopstr.   |
 
 
 ## Contributing
